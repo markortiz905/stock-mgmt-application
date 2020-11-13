@@ -9,6 +9,7 @@ Develop a stock management application for a company selling computer products.
 
 ## Compatible IDE
 - Netbeans
+    - Install Gradle Plugin for Netbeans.
 - Intellij
 - Eclipse
 
